@@ -2,7 +2,7 @@ source 'http://rubygems.org'
 
 gem "middleman", "~> 4"
 gem "middleman-livereload", "~> 3"
-gem 'middleman-autoprefixer',   '~> 2.7.1'
+gem 'middleman-autoprefixer',   '~> 2.10.1'
 gem 'middleman-minify-html',    '~> 3.4.1'
 gem 'middleman-protect-emails', '~> 0.4.0'
 gem 'middleman-robots',         '~> 1.2.3'
